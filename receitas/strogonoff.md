@@ -1,6 +1,6 @@
 #Strogonoff de Frango
 
-###Ingredientes
+### Ingredientes
  - 1 kg de peito de frango;
  - 3 colheres de sopa de óleo;
  - 1 tablete de caldo de galinha;
@@ -9,7 +9,7 @@
  - 2 colheres de sopa de molho de tomate;
  - 2 colheres de sopa de ketchup;
  - champignon a gosto.
-###Modo de preparo
+### Modo de preparo
 1- O primeiro passo é misturar o caldo de galinha e o óleo em uma panela a fogo médio. Depois, acrescente o frango picado em cubos e deixe-o cozinhar. Fique de olho para não deixar o preparo queimar.
 
 2- Em seguida, acrescente o molho de tomate, a mostarda, o ketchup e o champignon. Depois, adicione o creme de leite e mexa até os ingredientes ficarem bem homogêneos.
